@@ -1,12 +1,14 @@
 Hi there, I am Diwas Dhakal !👋👋
 
-[![Diwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diwasdh)](https://github.com/Diwasdh/github-readme-stats)
+[![Diwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diwasdh)](https://github.com/Diwasdh/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diwasdh&layout=compact)](https://github.com/Diwasdh/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diwasdh&layout=compact)](https://github.com/Diwasdh/github-readme-stats)
+
+
 
 My skills:
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='figma' height='40'>]()  
+
 
 
 Contact Me:
